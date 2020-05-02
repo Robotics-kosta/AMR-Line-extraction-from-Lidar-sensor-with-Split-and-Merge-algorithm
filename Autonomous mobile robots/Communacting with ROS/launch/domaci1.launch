@@ -1,6 +1,0 @@
-<launch>
-	<node pkg="domaci1" type="Akcija.py" name="Akcija" output="screen" launch-prefix="gnome-terminal --command" />
-	<node pkg="domaci1" type="Prikaz.py" name="Prikaz" output="screen" launch-prefix="gnome-terminal --command" />
-	<node pkg="domaci1" type="Obrada.py" name="Obrada" output="screen" launch-prefix="gnome-terminal --command" />
-	<node pkg="domaci1" type="Merenja.py" name="Merenja" output="screen" launch-prefix="gnome-terminal --command" />
-</launch>

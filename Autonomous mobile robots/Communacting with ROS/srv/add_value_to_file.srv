@@ -1,6 +1,0 @@
-string datum
-int64 max
-int64 min
-float32 avg
----
-string response
