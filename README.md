@@ -4,13 +4,9 @@ Lines are extracted using recursive Split and Merge algorithm (or [Ramer–Dougl
 
 If you ran Rviz in parallel, you could see the laser scan and visualized walls. On the following images you can see the current position of a in the world, and all the detected walls visualized in Rviz.
 
-<table>
-    <td> <img src="src//images example//environment.png"  ></td>
-
-    <td><img src= "src//images example//detectedLines.png"></td>
-</table>
-
-![Environment](https://github.com/Robotics-kosta/AMR-Line-extraction-from-Lidar-sensor-with-Split-and-Merge-algorithm/blob/master/src/images%20example/environment.png) 
+original environment | extracted walls
+:--:|:--:
+![Environment](https://github.com/Robotics-kosta/AMR-Line-extraction-from-Lidar-sensor-with-Split-and-Merge-algorithm/blob/master/src/images%20example/environment.png) |
 ![Detected_Lines](https://github.com/Robotics-kosta/AMR-Line-extraction-from-Lidar-sensor-with-Split-and-Merge-algorithm/blob/master/src/images%20example/detectedLines.png)
 
 
