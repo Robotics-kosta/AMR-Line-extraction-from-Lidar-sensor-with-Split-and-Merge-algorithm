@@ -6,6 +6,6 @@ If you ran Rviz in parallel, you could see the laser scan and visualized walls. 
 
 original environment | extracted walls
 :------------------------------:|:-----------------------------------------:
-![Environment](https://github.com/Robotics-kosta/AMR-Line-extraction-from-Lidar-sensor-with-Split-and-Merge-algorithm/blob/master/src/images%20example/environment.png=300x300) | ![Detected_Lines](https://github.com/Robotics-kosta/AMR-Line-extraction-from-Lidar-sensor-with-Split-and-Merge-algorithm/blob/master/src/images%20example/detectedLines.png =300x300)
+![Environment](https://github.com/Robotics-kosta/AMR-Line-extraction-from-Lidar-sensor-with-Split-and-Merge-algorithm/blob/master/src/images%20example/environment.png | height=300) | ![Detected_Lines](https://github.com/Robotics-kosta/AMR-Line-extraction-from-Lidar-sensor-with-Split-and-Merge-algorithm/blob/master/src/images%20example/detectedLines.pn | height=300)
 
 
