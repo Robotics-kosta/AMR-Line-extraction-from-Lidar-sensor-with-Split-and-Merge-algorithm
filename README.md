@@ -7,6 +7,6 @@ If you ran Rviz in parallel, you could see the laser scan and visualized walls. 
 original environment | extracted walls
 :------------------------------:|:-----------------------------------------:
 <img src="https://github.com/Robotics-kosta/AMR-Line-extraction-from-Lidar-sensor-with-Split-and-Merge-algorithm/blob/master/src/images%20example/environment.png" width="400" height="500" /> | <img src="https://github.com/Robotics-kosta/AMR-Line-extraction-from-Lidar-sensor-with-Split-and-Merge-algorithm/blob/master/src/images%20example/detectedLines.png " width="400" height="500" />
-
-
+# Usage
+Start the master by runnung `roscore`. If you want to lanuch an enviroment you have to install Gazebo and run `roslaunch turtlebot3_gazebo turtlebot3_world.launch` and run `main.py` script. Also if you want to render the extracted Lines you have to lanuch Rviz and add the visualization_marker_array topic.
 
